@@ -1,0 +1,32 @@
+Declare,metatab-latest
+Title,Example of Incrementing Versions
+Description,
+Identifier,e51cd477-6e6e-400c-9a6d-ac54e139c93a
+Name,example.com-versions-integer-1
+Dataset,versions
+Origin,example.com
+Time,
+Space,
+Grain,
+Variant,integer
+Version,1
+Created,2020-03-25T15:46:56
+Modified,2020-03-25T15:52:34
+Giturl,https://github.com/metatab-packages/metatab-packages.git
+""
+Section,Contacts,Email,Organization,Url
+Wrangler,Eric Busboom,eric@civicknowledge.com,Civic Knowledge,http://civicknowledge.com
+""
+Section,Documentation,Title,Description,
+Documentation,file:README.md,README,,
+""
+Section,References,Name,Description,
+""
+Section,Resources,Name,Description,
+Datafile,python:pylib#row_generator,data,Generated Data,
+""
+Section,Schema,DataType,AltName,Description,Has_Codes
+Table,data,,,,
+Table.Column,a,integer,,,
+Table.Column,b,integer,,,
+Table.Column,c,integer,,,
