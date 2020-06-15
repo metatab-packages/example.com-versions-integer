@@ -2,16 +2,16 @@ Declare,metatab-latest
 Title,Example of Incrementing Versions
 Description,
 Identifier,e51cd477-6e6e-400c-9a6d-ac54e139c93a
-Name,example.com-versions-integer-1
+Name,example.com-versions-integer-2
 Dataset,versions
 Origin,example.com
 Time,
 Space,
 Grain,
 Variant,integer
-Version,1
+Version,2
 Created,2020-03-25T15:46:56
-Modified,2020-03-25T15:52:34
+Modified,2020-06-14T23:47:40
 Giturl,https://github.com/metatab-packages/metatab-packages.git
 ""
 Section,Contacts,Email,Organization,Url
