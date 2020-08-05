@@ -12,19 +12,20 @@ Variant,integer
 Version,2
 Created,2020-03-25T15:46:56
 Modified,2020-06-14T23:47:40
+Redistribution,private
 Giturl,https://github.com/metatab-packages/metatab-packages.git
-""
+
 Section,Contacts,Email,Organization,Url
 Wrangler,Eric Busboom,eric@civicknowledge.com,Civic Knowledge,http://civicknowledge.com
-""
+
 Section,Documentation,Title,Description,
 Documentation,file:README.md,README,,
-""
+
 Section,References,Name,Description,
-""
+
 Section,Resources,Name,Description,
 Datafile,python:pylib#row_generator,data,Generated Data,
-""
+
 Section,Schema,DataType,AltName,Description,Has_Codes
 Table,data,,,,
 Table.Column,a,integer,,,
